@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>c0rwin.common.archtypes</groupId>
+  <artifactId>c0rwin-quickstart-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130209005027</lastUpdated>
+  </versioning>
+</metadata>
